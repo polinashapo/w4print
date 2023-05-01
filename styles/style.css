@@ -1,0 +1,213 @@
+.header-logo {
+    padding-left: 15%;
+    padding-top: 5px;
+}
+
+.logo:hover {
+    height: 15vh;
+}
+
+.logonav {
+    color: white;
+    text-decoration: none;
+    left: 40%;
+    top: -10%;
+    padding-left: 3%;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+
+.background {
+    padding: 10px;
+    margin: 0px;
+    background-image: url("../assets/images/print.jpg");
+    background-size: cover;
+}
+
+.general {
+    padding-top: 25px;
+    margin: 0px;
+    height: 70vh;
+    background-color: #2C1E6E65;
+    background-size: cover;
+}
+
+h4 {
+    height: 20vh;
+    text-align: center;
+    size: 25px;
+    padding-top: 10vh;
+    font-family: 'Montserrat';
+}
+
+
+.poligraphic {
+    color: white;
+    padding-left: 30%;
+    padding-top: 10%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.poligraphic:hover {
+    background-color: #21987465;
+}
+
+.politypes {
+    color: white;
+    padding-left: 30%;
+    padding-top: 1%;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+
+
+.h4 {
+    text-align: center;
+    width: 760px;
+    height: 30px;
+    left: 580px;
+    top: 140px;
+    margin-top: 5%;
+    margin-left: 25%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.girlDraw {
+    padding-left: 20px;
+    width: 604px;
+    height: 471px;
+    left: 206px;
+    top: 207px;
+}
+
+.list {
+    list-style-image: url("../assets/images/chek.png");
+    padding-top: 550px;
+    position: absolute;
+    width: 539px;
+    height: 413.35px;
+    left: 690px;
+    top: 237px;
+}
+
+.perfect {
+    height: 70vh;
+    padding-top: 20px;
+    background: rgba(44, 30, 110, 0.56);
+}
+
+.everyday {
+    color: white;
+    padding: 1%;
+    font-family: 'Open Sans';
+    font-size: 25px;
+}
+
+.card {
+    padding: 10px;
+    margin: 0px;
+    background-image: url("../assets/images/print.jpg");
+    background-size: cover;
+}
+
+.better {
+    margin-top: 5%;
+    margin-left: 25%;
+    color: white;
+    position: center;
+    width: 50%;
+    height: 45vh;
+    align-items: center;
+    padding-top: 0%;
+    background: #100A3350;
+  
+}
+
+.promotext {
+    font-family: 'Open Sans';
+    font-size: 14px;
+}
+
+.number {
+    width: 43px;
+    height: 47px;
+    left: 1055px;
+    top: 719px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 75%;
+    display: flex;
+    align-items: flex-end;
+    color: #B798E0;
+
+}
+
+.marker {
+    width: 30%;
+    margin-left: 25%;
+}
+
+.secondmarker {
+    width: 30%;
+    margin-left: 50%;
+}
+
+.questions {
+    height: 90vh;
+    background: linear-gradient(139.22deg, #DDCAF7 37.6%, #C2F4F4 81.1%);
+    font-family: 'Open Sans';
+    font-style: normal;
+    padding-top: 3%;
+    padding-left: 15%;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-size: 25px;
+}
+
+.lastquestion {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style:inherit;
+    padding-top: 2%;
+    font-size: 25px;
+}
+
+
+.lastquestions {
+    position: absolute;
+    padding-top: 7%;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+
+.girlCubes {
+    padding-left: 40%;
+  
+}
+
+.inputMail {
+    position: absolute;
+    padding-top: 30%;
+}
+
+
+.input:focus {
+    background-color: red;
+}
+
+.footer {
+    background: #6C63FF;
+}
